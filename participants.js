@@ -4,8 +4,8 @@
 const participants = [];
 
 // Function to add participant information
-function addParticipant(name, switchedToLinux, eventSuggestion) {
-  participants.push({ name, switchedToLinux, eventSuggestion });
+function addParticipant(name, switchedToLinux, suggestionForNextEvent) {
+  participants.push({ name, switchedToLinux, suggestionForNextEvent });
 }
 
 // Sample data to be filled by participants during the event
