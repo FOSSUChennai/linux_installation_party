@@ -12,6 +12,7 @@ function addParticipant(name, switchedToLinux, suggestionForNextEvent) {
 addParticipant("nammahari", true, "Front-end development");
 addParticipant("Ansh Arora", false,"new opensource technologies");
 addParticipant("Ahamed Basha N", false,"Open Source for AI");
+addParticipant("Sai Vamsi", true, "Design and FOSS");
 
 // Exporting the participants array to make it accessible from other files
 module.exports = participants;
