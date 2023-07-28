@@ -24,7 +24,7 @@ The Open Source 101 Talk is a session where we will guide you through making you
 
 ## Getting Help
 
-If you have any questions or need assistance during the event, feel free to reach out to the organizers.
+If you have any questions or need assistance during the event, feel free to reach out to the volunteers.
 
 ## Stay Connected
 
