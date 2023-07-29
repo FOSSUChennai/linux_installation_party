@@ -10,7 +10,7 @@ Thank you for your interest in contributing to the Linux Installation Party even
 
 ## Adding Participant Information
 
-1. Navigate to the participants.js file.
+1. Navigate to the participants.md file.
 2. Add your name,indicate whether you have switched to Linux or not(true or false) and suggestion for upcoming event following the existing format.
 3. Save the file.
 
