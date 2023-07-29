@@ -15,6 +15,7 @@ Contribute Here 👇:
 - Switched to Linux: Yes
 - Open Source for AI
 ##
-
-
+- Name: Shivam Bansal
+- Switched to Linux: Yes
+- Front-End Development & App Development 
 Thank you for participating in the Linux Installation Party - Chennai! 🎉
