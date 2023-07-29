@@ -10,15 +10,27 @@ Contribute Here 👇:
 ##
 - Name: Suslime
 - Switched to Linux: Yes
-- Front- End Development 
+- Front- End Development
 ##
 - Name: Ahamed Basha
 - Switched to Linux: Yes
 - Open Source for AI
+
 ##
 - Name: Immanuel Raj
 - Switched to Linux: Yes(No)
 - Friendly neighbour hood android developer @PixelExtended
+##
+- Name: Ahamed Basha
+- Switched to Linux: Yes
+- Open Source for AI
+
+##
+
+- Name: Sakhil
+- Switched to Linux: Yes
+- How to get free stickers
+
 ##
 
 Thank you for participating in the Linux Installation Party - Chennai! 🎉
