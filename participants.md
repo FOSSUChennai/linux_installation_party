@@ -15,6 +15,9 @@ Contribute Here 👇:
 - Switched to Linux: Yes
 - Open Source for AI
 ##
+- Name: Irfan Jalal
+- Switched to Linux: Yes
+- Bash Scripting
 
 
 Thank you for participating in the Linux Installation Party - Chennai! 🎉
