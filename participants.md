@@ -15,6 +15,10 @@ Contribute Here 👇:
 - Switched to Linux: Yes
 - Open Source for AI
 ##
+- Name: Hardik Malani
+- Switched to Linux: Yes
+- Front-End Web Development
+##
 
 
 Thank you for participating in the Linux Installation Party - Chennai! 🎉
