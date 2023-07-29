@@ -16,5 +16,8 @@ Contribute Here 👇:
 - Open Source for AI
 ##
 
+- Name: Achanandhi M
+- Switched to Linux: yes
+- Open Source for Cloud
 
 Thank you for participating in the Linux Installation Party - Chennai! 🎉
