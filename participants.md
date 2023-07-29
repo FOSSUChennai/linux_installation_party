@@ -15,6 +15,9 @@ Contribute Here 👇:
 - Switched to Linux: Yes
 - Open Source for AI
 ##
+- Name : Pavithran Sivajikannan
+- Switched to Linux: Yes
+- Full Stack Web Development
 
 
 Thank you for participating in the Linux Installation Party - Chennai! 🎉
