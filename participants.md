@@ -16,5 +16,8 @@ Contribute Here 👇:
 - Open Source for AI
 ##
 
+- Name: Saravana Kumar 
+- Switched to Linux: Yes
+- Suggestion For Next Event : Cloud 
 
 Thank you for participating in the Linux Installation Party - Chennai! 🎉
