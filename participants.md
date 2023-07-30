@@ -7,22 +7,24 @@ Please add your name,indicate whether you have switched to Linux or not.Also we 
 - Suggestion For Next Event [ What You Expect From Us ]
 
 Contribute Here 👇:
-
+##
 - Name: Suslime
 - Switched to Linux: Yes
 - Front- End Development
-
 ##
-
 - Name: Ahamed Basha
 - Switched to Linux: Yes
 - Open Source for AI
 
 ##
+- Name: Immanuel Raj
+- Switched to Linux: Yes(No)
+- Friendly neighbour hood android developer @PixelExtended
+##
 - Name : Pavithran Sivajikannan
 - Switched to Linux: Yes
 - Full Stack Web Development
-
+##
 - Name: Shivam Bansal
 - Switched to Linux: Yes
 - Front-End Development & App Development 
@@ -37,11 +39,6 @@ Contribute Here 👇:
 
 ##
 
-- Name: Ahamed Basha
-- Switched to Linux: Yes
-- Open Source for AI
-
-##
 - Name: Sakhil
 - Switched to Linux: Yes
 - How to get free stickers
