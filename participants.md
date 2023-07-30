@@ -19,6 +19,11 @@ Contribute Here 👇:
 - Open Source for AI
 
 ##
+
+- Name: Shivam Bansal
+- Switched to Linux: Yes
+- Front-End Development & App Development 
+##
 - Name: Hardik Malani
 - Switched to Linux: Yes
 - Front-End Web Development
@@ -33,14 +38,7 @@ Contribute Here 👇:
 - Switched to Linux: Yes
 - Open Source for AI
 
-####
-
-- Name: Ahamed Basha
-- Switched to Linux: Yes
-- Open Source for AI
-
-####
-
+##
 - Name: Sakhil
 - Switched to Linux: Yes
 - How to get free stickers
@@ -50,7 +48,7 @@ Contribute Here 👇:
 - Name: Saravana Kumar 
 - Switched to Linux: Yes
 - Suggestion For Next Event : Cloud 
-
+##
 - Name: Achanandhi M
 - Switched to Linux: yes
 - Open Source for Cloud
