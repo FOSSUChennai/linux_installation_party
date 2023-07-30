@@ -19,6 +19,9 @@ Contribute Here 👇:
 - Open Source for AI
 
 ##
+- Name : Pavithran Sivajikannan
+- Switched to Linux: Yes
+- Full Stack Web Development
 
 - Name: Shivam Bansal
 - Switched to Linux: Yes
