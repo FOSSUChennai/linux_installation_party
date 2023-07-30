@@ -40,4 +40,10 @@ Contribute Here 👇:
 
 ##
 
+- Name: Syed Suhail Ikraam 
+- Switched to Linux: Yes
+- Penetration Tester
+
+##
+
 Thank you for participating in the Linux Installation Party - Chennai! 🎉
