@@ -19,6 +19,10 @@ Contribute Here 👇:
 - Open Source for AI
 
 ##
+- Name: Hardik Malani
+- Switched to Linux: Yes
+- Front-End Web Development
+##
 
 ##
 
