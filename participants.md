@@ -23,6 +23,9 @@ Contribute Here 👇:
 - Switched to Linux: Yes
 - Front-End Web Development
 ##
+- Name: Irfan Jalal
+- Switched to Linux: Yes
+- Bash Scripting
 
 ##
 
